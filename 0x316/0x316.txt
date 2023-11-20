@@ -1,0 +1,6 @@
+0x316 is sent by the Engine ECU
+
+B0 - 0x01  This changes to 0x31 when key to starter and does not reset until key off(R75 auto)
+     0x31  R75 manual
+
+B1 - 0xFF
